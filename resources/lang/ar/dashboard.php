@@ -2,7 +2,7 @@
 
 return[
     'Welcome ,' => 'مرحبا ,',
-    'Dashboard' => 'اللائحة الأم',
+    'Dashboard' => 'الرئيسية',
     'Add Contacts' => 'إضافة جهة إتصال',
     'Contacts' => 'جهات الإتصال',
     'Logout' => 'خروج',
